@@ -1,7 +1,4 @@
-if (document.readyState == 'complete') 
-{
-    AOS.refresh();
-}
+
 $(document).ready(function () {
     setTimeout(() => {
         AOS.init();
