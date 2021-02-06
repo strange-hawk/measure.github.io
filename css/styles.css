@@ -3,7 +3,6 @@ body{
   color: white;
   font-size: 1em;
   height: 100%;
- overflow-x: hidden;
 }
 .bg-black{
   background: black !important;
